@@ -1,2 +1,5 @@
 to ignore
-gitignore
+*.log
+node_module
+gitignore/
+
